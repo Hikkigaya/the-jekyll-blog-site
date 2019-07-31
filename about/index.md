@@ -2,6 +2,7 @@
 layout: page
 title: About
 tags: [about, Jekyll, theme, JBlog]
+comments: false
 date: 2016-03-21
 ---
 

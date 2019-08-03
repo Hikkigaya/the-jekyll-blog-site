@@ -1,3 +1,11 @@
+---
+layout: post
+title: "On Being Loyal To A Company"
+date: 2019-08-03
+excerpt: "Times have changed. There is nothing in return for an employee who remains loyal to a company."
+tags: [loyalty, employee, company, uglystance]
+---
+
 #On Being Loyal To A Company
 
 My father was loyal to company for 15 years, and what he got in return was… nothing. He was laid off when the company decided to switch its location to another country. 

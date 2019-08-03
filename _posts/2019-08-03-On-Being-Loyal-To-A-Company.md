@@ -6,7 +6,6 @@ excerpt: "Times have changed. There is nothing in return for an employee who rem
 tags: [loyalty, employee, company, uglystance]
 ---
 
-#On Being Loyal To A Company
 
 My father was loyal to company for 15 years, and what he got in return was… nothing. He was laid off when the company decided to switch its location to another country. 
 
@@ -20,4 +19,4 @@ Hiring people during large projects and letting them go afterwards is becoming a
 
 Work in a company, climb the corporate ladder, and make as much money as you can. Just remember don't be so loyal as to go down with a sinking ship. Because if you do, you will be the only person going down regardless of your rank. 
 
-Just like the company starts firing on people on the first sign of distant losses, start looking for a better place as soon as things start to go south. 
+Just like the company starts firing people on the first sign of distant losses, start looking for a better place as soon as things start to go south. 

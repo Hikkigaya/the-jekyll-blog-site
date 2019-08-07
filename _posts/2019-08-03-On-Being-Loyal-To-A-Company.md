@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Being Loyal To A Company"
+title: "Company Loyalty"
 date: 2019-08-03
 excerpt: "Times have changed. There is nothing in return for an employee who remains loyal to a company."
 tags: [loyalty, employee, company, uglystance]

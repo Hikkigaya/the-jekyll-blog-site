@@ -77,7 +77,9 @@
         {% include disqus_comments.html %}
       </div>
     </div>
-    {% include analytics.html %}
     {% include footer.html %}
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </body>
 </html>

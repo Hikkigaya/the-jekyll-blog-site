@@ -69,5 +69,8 @@
       </div>
     </div>
     {% include social-links.html %}
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </body>
 </html>

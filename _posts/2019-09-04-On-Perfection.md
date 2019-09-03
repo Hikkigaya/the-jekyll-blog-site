@@ -12,7 +12,7 @@ tag:
 - Motivation
 - Novel
 ---
-<img src="/assets/img/Ideal-Thoughts-0001.png" alt="0001 Ideal thoughts" width="250" height="250" />
+<img src="/assets/img/Ideal-Thoughts-0001.png" alt="0001 Ideal thoughts" />
 
 <center><h3><b>Ideal Thoughts</b> 0001 of 1000</h3></center>
 
@@ -20,6 +20,7 @@ There are those fictions that are just perfect... so perfect that once you are d
 
 What to do when one cannot find another fiction at par or above expectations?
 
+![What?](https://media.giphy.com/media/Tit8CFFaFncoAgYFc4/giphy.gif | width=250)
 <img src="https://media.giphy.com/media/Tit8CFFaFncoAgYFc4/giphy.gif" alt="What?" width="250" height="250"/>
 
 The answer is simple and yet devastating, and that is, you have to keep on looking.

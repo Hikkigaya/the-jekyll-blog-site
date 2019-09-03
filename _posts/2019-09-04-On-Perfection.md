@@ -12,7 +12,7 @@ tag:
 - Motivation
 - Novel
 ---
-<img src="/assets/img/Ideal-Thoughts-0001.png" alt="0001 Ideal thoughts" height="250"/>
+<img src="/assets/img/Ideal-Thoughts-0001.png" alt="0001 Ideal thoughts" width="250"/>
 
 <center><h3><b>Ideal Thoughts</b> 0001 of 1000</h3></center>
 
@@ -24,7 +24,7 @@ What to do when one cannot find another fiction at par or above expectations?
 
 The answer is simple and yet devastating, and that is, you have to keep on looking.
 
-<img src="https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif" alt="Searching" height="250"/>
+<img src="https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif" alt="Searching" width="250"/>
 
 The important thing to note is that perfection can only be topped by perfection. Once you are on the ladder of perfection it will get harder and harder to take the next step. In this case, it will become even harder to FIND the next step.
 

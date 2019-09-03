@@ -20,7 +20,7 @@ There are those fictions that are just perfect... so perfect that once you are d
 
 What to do when one cannot find another fiction at par or above expectations?
 
-![What?](https://media.giphy.com/media/Tit8CFFaFncoAgYFc4/giphy.gif | width=250)
+![What?](https://media.giphy.com/media/Tit8CFFaFncoAgYFc4/giphy.gif)
 
 The answer is simple and yet devastating, and that is, you have to keep on looking.
 

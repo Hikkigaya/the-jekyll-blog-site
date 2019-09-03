@@ -13,8 +13,8 @@ tag:
 - Novel
 ---
 
-![0001 Ideal thoughts](/assets/img/Ideal-Thoughts-0001.png){: height=250}
-{: .image-pull-right}
+<div style="width:250px">![0001 Ideal thoughts](/assets/img/Ideal-Thoughts-0001.png){: height=250}
+{: .image-pull-right}</div>
 
 <center><h3><b>Ideal Thoughts</b> 0001 of 1000</h3></center>
 
@@ -36,4 +36,4 @@ One way to get moving is to choose another ladder altogether. Choose another gen
 
 ![Intersting Story](https://media.giphy.com/media/a5viI92PAF89q/giphy.gif){: height=250}
 
-## So do you have any genre changing story, in search of perfection, to share?
+### So do you have any genre changing story, in search of perfection, to share?

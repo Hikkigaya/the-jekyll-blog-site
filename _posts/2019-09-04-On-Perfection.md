@@ -16,7 +16,7 @@ tag:
 ![0001 Ideal thoughts](/assets/img/Ideal-Thoughts-0001.png)
 {: .image-pull-right}
 
-<center><b><h1>Ideal Thoughts</b> 0001 of 1000</h1></center>
+<center><h1><b>Ideal Thoughts</b> 0001 of 1000</h1></center>
 
 There are those fictions that are just perfect... so perfect that once you are done with them all others become pale in comparison.
 

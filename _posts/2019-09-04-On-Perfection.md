@@ -13,27 +13,27 @@ tag:
 - Novel
 ---
 
-![0001 Ideal thoughts](/assets/img/Ideal-Thoughts-0001.png)
+![0001 Ideal thoughts](/assets/img/Ideal-Thoughts-0001.png =250x)
 {: .image-pull-right}
 
-<center><h1><b>Ideal Thoughts</b> 0001 of 1000</h1></center>
+<center><h3><b>Ideal Thoughts</b> 0001 of 1000</h3></center>
 
 There are those fictions that are just perfect... so perfect that once you are done with them all others become pale in comparison.
 
 What to do when one cannot find another fiction at par or above expectations?
 
-![What?](https://media.giphy.com/media/Tit8CFFaFncoAgYFc4/giphy.gif)
+![What?](https://media.giphy.com/media/Tit8CFFaFncoAgYFc4/giphy.gif =250x)
 
 The answer is simple and yet devastating, and that is, you have to keep on looking.
 
-![Searching](https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif)
+![Searching](https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif =250x)
 
 The important thing to note is that perfection can only be topped by perfection. Once you are on the ladder of perfection it will get harder and harder to take the next step. In this case, it will become even harder to FIND the next step.
 
-![Ladder Climbing](https://media.giphy.com/media/Hnj1sTS0Mn56M/giphy.gif)
+![Ladder Climbing](https://media.giphy.com/media/Hnj1sTS0Mn56M/giphy.gif =250x)
 
 One way to get moving is to choose another ladder altogether. Choose another genre altogether.
 
-![Intersting Story](https://media.giphy.com/media/a5viI92PAF89q/giphy.gif)
+![Intersting Story](https://media.giphy.com/media/a5viI92PAF89q/giphy.gif =250x)
 
-##So do you have any genre changing story, in search of perfection, to share?
+## So do you have any genre changing story, in search of perfection, to share?

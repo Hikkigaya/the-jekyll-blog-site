@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Perfection"
-image: "https://media.giphy.com/media/fuQfdBHImHm0U0qIZo/giphy.gif"
+image: "/assets/img/Ideal-Thoughts-0001.png"
 date:   2016-03-21
 excerpt: "Perfection can only be overcome by perfection... I guess"
 project: true
@@ -13,7 +13,7 @@ tag:
 - Novel
 ---
 
-![0001 Ideal thoughts](https://media.giphy.com/media/fuQfdBHImHm0U0qIZo/giphy.gif)
+![0001 Ideal thoughts](/assets/img/Ideal-Thoughts-0001.png)
 {: .image-pull-right}
 
 <center><b>Ideal Thoughts</b>0001 of 1000</center>

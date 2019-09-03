@@ -12,9 +12,7 @@ tag:
 - Motivation
 - Novel
 ---
-
-![0001 Ideal thoughts](/assets/img/Ideal-Thoughts-0001.png){ width=50% }
-{: .image-pull-right}</div>
+<img src="/assets/img/Ideal-Thoughts-0001.png" alt="0001 Ideal thoughts" height="250"/>
 
 <center><h3><b>Ideal Thoughts</b> 0001 of 1000</h3></center>
 

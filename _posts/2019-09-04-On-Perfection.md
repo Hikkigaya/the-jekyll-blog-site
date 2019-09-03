@@ -34,4 +34,4 @@ One way to get moving is to choose another ladder altogether. Choose another gen
 
 <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" alt="Intersting Story" width="250"/>
 
-#### So do you have any genre changing story, in search of perfection, to share?
+### So do you have any genre changing story, in search of perfection, to share?

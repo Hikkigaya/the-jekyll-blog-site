@@ -24,14 +24,14 @@ What to do when one cannot find another fiction at par or above expectations?
 
 The answer is simple and yet devastating, and that is, you have to keep on looking.
 
-<img src="https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif" alt="Searching" width="250" height="250" />
+<img src="https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif" alt="Searching"/>
 
 The important thing to note is that perfection can only be topped by perfection. Once you are on the ladder of perfection it will get harder and harder to take the next step. In this case, it will become even harder to FIND the next step.
 
-<img src="https://media.giphy.com/media/Hnj1sTS0Mn56M/giphy.gif" alt="Ladder Climbing" width="250" height="250" />
+<img src="https://media.giphy.com/media/Hnj1sTS0Mn56M/giphy.gif" alt="Ladder Climbing"/>
 
 One way to get moving is to choose another ladder altogether. Choose another genre altogether.
 
-<img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" alt="Intersting Story" width="250" height="250" />
+<img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" alt="Intersting Story"/>
 
 ### So do you have any genre changing story, in search of perfection, to share?

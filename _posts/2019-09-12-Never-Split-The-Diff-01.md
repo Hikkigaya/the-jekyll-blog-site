@@ -30,7 +30,9 @@ Mirroring exploits this phenomena in us. By simply repeating the last few words 
 People tend to listen more intently when the voice is clear and deep. Thus there are actual trainers who teach how to make you voice more prominent and heavy. Using such voice increases the odds that the person on the other side will calm down and listen.
 
 ## 3-Open Ended Questions
-Personally for me, this is like a superpower… that I just can't seem to master. I am still having difficulty coming up with open question in the middle of a conversation. I prepare some before a conversation and when run out of them it's game over. 
+Personally for me, this is like a superpower… that I just can't seem to master. I am still having difficulty coming up with open question in the middle of a conversation. I prepare some before a conversation and when run out of them it's game over.
+
+![INTERVIEW CRYING](https://media.giphy.com/media/6Q3M4BIK0lX44/giphy.gif)
 
 The easy rule that I have found easy for me is one presented in this book a few chapters in. The rule is that question that start with "How"  are open ended. I end up using them too much thus looking like and idiot… I still haven't mastered them. But they work like charm. They make your counterpart think and respond properly instead of a just YES or NO.
 
@@ -38,16 +40,20 @@ They also make sure that your counterpart come up for a solution for you. By pro
 
 ## 4-Labeling
 Labeling is something that… I have been using for a long time. I think this is because of the cultural difference. Here in Pakistan when we see someone sad we say "You look sad". The same goes for all other emotions. We see an emotion we call it out.
+
 "You look angry"
 "You don’t look satisfied"
 "You don't look happy"
 "It seems like you are not ok with this decision"
+
 We see an emotion we say what we see. 
 
 Labeling works wonders. It make the others person come out and correct you if you are not right and make them open up if you are right. 
 
 ## 5-Meaningful Pause
-A meaningful pause in a conversation gives both parties time to think and speak with a clear mind after the pause. It also helps continue a stalled conversation. 
+A meaningful pause in a conversation gives both parties time to think and speak with a clear mind after the pause. It also helps continue a stalled conversation.
+
+![Nodding interstingly](https://media.giphy.com/media/lp13ykLvrVZpPnH9zD/giphy.gif)
 
 If the opposing party is finished speaking but you think there is more they want to say but are hesitating it is better to pause and not say anything for a few seconds until they start talking again. 
 
@@ -59,10 +65,14 @@ Listing all the negatives before hand disarms you opponent and they think that t
 ## 7-Smile And Your Half Way There
 Smiling is one thing that can be done without much effort and its takes nothing from the person who does it. In return it showers its owner with gifts and much more. 
 
+![Smiling Kid](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)
+
 Smiling humanizes you. A smug is nothing in negotiation, smile is worth a lot more than you can imagine. 
 
 ## 8-Beware Yes Master No - Start With No
 Negotiation starts when the other party says NO. And on the other hand YES means nothing without follow-through.
+
+![O God Please No](https://media.giphy.com/media/a5MbLFYonqYgg/giphy.gif)
 
 The other party may say yes to every questing you ask and still say no at the very end of the deal. Thus all that work of making them say YES becomes useless. Thus it is better to start with NO.
 
@@ -73,6 +83,8 @@ The sooner you make the other party say NO the sooner real negotiations can star
 A counterfeit yes is the yes you get from a … liars. It's easy to spot… It's from a liar. Also from someone who is just trying to get rid of you. He will say yes just to get you off of himself. 
 A confirmation yes if when some agrees with you genuinely. 
 A commitment yes is when you have the deal.
+
+![Thor saying yes to hulk arrival](https://media.giphy.com/media/ckeHl52mNtoq87veET/giphy.gif)
 
 If someone says "Yes, call me after three days I will buy"… this is counterfeit.
 If someone says "You are right…"… this is confirmation but the other party is still not committed.

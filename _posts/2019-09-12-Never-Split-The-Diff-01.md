@@ -5,7 +5,8 @@ date: 2019-09-12
 excerpt: "Negotiate Like Your Life Depends On It"
 tags: [uglystance, life, business, happiness, finance, money, selfemployed, failures, negotiation, spliting the difference, book review]
 ---
-Never have I ever read a book that has influenced me so much. When I started reading this book I wanted to finish it as soon as possible. Then I remembered… I'm crap at remembering things. So I took the only path I know. I read a little everyday and tried to make whatever I learned a part of my personality. So and steady I finished the book. Today I will write about my understanding on each major concept presented in this unbelievable book "Never split the difference Negotiate like your life depends on it"
+
+#### Never have I ever read a book that has influenced me so much. When I started reading this book I wanted to finish it as soon as possible. Then I remembered… I'm crap at remembering things. So I took the only path I know. I read a little everyday and tried to make whatever I learned a part of my personality. So and steady I finished the book. Today I will write about my understanding on each major concept presented in this unbelievable book "Never split the difference Negotiate like your life depends on it"
 
 Let's start chronologically. There are about 80 points that I have taken from the book. In this first blog I will write about the first 10. Looks like this is going to be a long long long book review.
 
@@ -89,3 +90,5 @@ A commitment yes is when you have the deal.
 If someone says "Yes, call me after three days I will buy"… this is counterfeit.
 If someone says "You are right…"… this is confirmation but the other party is still not committed.
 If he/she says "That is right…. I do need this… call me after…" boom you have the deal. 
+
+#### With this the first 10 points are covered, only 70 to go. 

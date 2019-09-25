@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Never Split The Difference 01"
+title: "Never Split The Difference 02"
 date: 2019-09-12
 excerpt: "Negotiate Like Your Life Depends On It"
 tags: [uglystance, life, business, happiness, finance, money, selfemployed, failures, negotiation, spliting the difference, book review]

@@ -16,6 +16,9 @@ A counterfeit yes is what we say… when we just want to get rid of the salesman
 Flat Earther: Do you believe the Earth is Flat?
 Me: Yes [Counterfeit 100%]
 A confirmation yes is what we use when we agree that someone else is right… the main use that I have found for this is to stop the other from further explaining whatever he or she is explaining… to which I don’t agree. This allows me to stop their conversation and start mine.
+
+انتقام 
+
 A commitment yes is when we genuinely agree with someone. This is the kind of yes that salespeople and negotiators should look for, a Yes with the intent to commit.
 ## Start With “Is this a bad time?”
 When you start with “Is this a bad time?”, two of one thing is going to happen. The other party is either going to say “No, this is not a good time” to which you can say “Sure when should I call you back”… this is win since now you have a proper time to call. Or the other party to say “Yes…”, and this is a jackpot since now the other party is going to listen to what you have to say and they have agreed to it.

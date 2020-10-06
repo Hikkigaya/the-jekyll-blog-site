@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fearful Dreading Heart"
+title: "Fearful Dreading Hearts"
 date: 2020-10-06
 excerpt: "When does a heart shake with fear? Is it when we are about to die? Is it when some we love is about to die? Is it when we about to lose something or someone we love?"
 tags: [productivity, personal, uglystance, awake, weird, hearts, fear, heart, dread]
@@ -8,7 +8,7 @@ tags: [productivity, personal, uglystance, awake, weird, hearts, fear, heart, dr
 
 # When Does A Heart Shake With Fear?
 
-When does a heart shake with fear? Is it when we are about to die? Is it when some we love is about to die? Is it when we about to lose something or someone we love?
+When does a heart shake with fear? Is it when we are about to die? Is it when someone we love is about to die? Is it when we are about to lose something or someone we love?
 
 Take a good look at the sentence above. Look over it again. Read it again. Once more, just to be sure. There is a common theme in all of them. Were you able to find it?
 

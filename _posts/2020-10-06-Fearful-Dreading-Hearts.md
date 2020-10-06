@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Does A Heart Shake With Fear?"
+title: "Fearful Dreading Heart"
 date: 2020-10-06
 excerpt: "When does a heart shake with fear? Is it when we are about to die? Is it when some we love is about to die? Is it when we about to lose something or someone we love?"
 tags: [productivity, personal, uglystance, awake, weird, hearts, fear, heart, dread]

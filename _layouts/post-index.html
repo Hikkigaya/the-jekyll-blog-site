@@ -18,6 +18,9 @@
             $('.yazilar').css({
               'filter'         : 'blur(5px)'
             });
+            $('.programlar').css({
+              'filter'         : 'blur(5px)'
+            });
             $('.ust').css({
               'filter'         : 'blur(5px)'
             });
@@ -31,6 +34,9 @@
               'filter'         : 'blur(0px)'
             });
             $('.yazilar').css({
+              'filter'         : 'blur(0px)'
+            });
+            $('.programlar').css({
               'filter'         : 'blur(0px)'
             });
             $('.ust').css({
@@ -65,8 +71,10 @@
           {% if post.project == null %}
             <div class="yazi">
               <div class="ustr">
-                <div class="urunResmi">
-                  <img src="{{ post.image }}" alt="" style="padding-top: 10px;">
+                <div class="program">
+                  <div class="urunResmi">
+                    <img src="{{ post.image }}" alt="" style="padding-top: 10px;">
+                  </div>
                 </div>
                 <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="yazibilgisi">
